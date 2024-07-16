@@ -71,6 +71,8 @@ Front-end Developer
   </a>
 </p>
 
+![akashlitoriya's Stats](https://github-readme-stats.vercel.app/api?username=akashlitoriya&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
 
 <b>My GitHub Stats</b>
 

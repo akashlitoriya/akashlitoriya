@@ -9,7 +9,7 @@ Front-end Developer
 * 🌍  I'm based in India
 * ✉️  You can contact me at [akashlitoriya8@gmail.com](mailto:akashlitoriya8@gmail.com)
 * 🚀  I'm currently working on [TuneScape](https://tunescape.netlify.app/)
-* 🧠  I'm learning SpringBoot
+* 🧠  I'm learning tanstack-query
 
 ### Skills
 
